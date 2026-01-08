@@ -36,3 +36,6 @@ docker build -t producthub-php .
 
 **Make sure port 8080 is free before running the container.**  
 **Optional:** Customize styles using Bootstrap.
+
+## Production URL
+[My Project](https://mycruds-rnepltmi.b4a.run)
